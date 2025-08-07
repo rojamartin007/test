@@ -1,0 +1,18 @@
+/**
+ * @NApiVersion 2.1
+ * @NScriptType UserEventScript
+ */
+
+ 
+ 
+
+// Create a search programmatically to fetch the details of the Sales orders that are in "Pending Fulfillment" status. Display the following details: Document number, date, customer name, subsidiary, amount 
+// Debug the code using script debugger 
+
+
+// 3.Create a search in NetSuite to retrieve details of overdue invoices, including the invoice document number, customer name, and overdue amount
+
+
+
+
+ 
